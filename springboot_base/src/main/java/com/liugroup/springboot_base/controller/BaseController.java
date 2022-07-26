@@ -352,7 +352,7 @@ public class BaseController {
     @GetMapping("testParam")
     public String testParam(String a, int b){
         System.out.println("a = " + a + ",b = " + b);
-        return "heiheihie";
+        return "fixbug";
     }
 
     @PostMapping("postParam")
