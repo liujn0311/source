@@ -1,0 +1,1 @@
+17:45:06.684 [main] WARN  tk.mybatis.spring.mapper.ClassPathMapperScanner - No MyBatis mapper was found in '[com.liugroup.springboot_base]' package. Please check your configuration.

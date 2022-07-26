@@ -1,0 +1,39 @@
+server:
+  port: 8089
+
+mybatis:
+  mapper-locations: classpath:mapper/*.mapper
+  type-aliases-package: com.liugroup.springboot_base.pojo
+  configuration:
+    map-underscore-to-camel-case: true
+#spring:
+#  datasource:
+#    type: com.alibaba.druid.pool.DruidDataSource
+#    username: root
+#    password: qwer@1234
+#    url: jdbc:mysql://localhost:3306/rabc?useUnicode=true&characterEncoding=UTF-8
+
+spring:
+  datasource:
+      type: com.alibaba.druid.pool.DruidDataSource
+      url: jdbc:oracle:thin:@127.0.0.1:1521/ORCL
+      username: LIUJN
+      password: LIUJN
+
+version: 0.0.1-SNAPSHOT
+
+image:
+  path: F:\image
+
+
+
+logging:
+  level:
+    com.liugroup.springboot_base.mapper: debug
+    root: debug
+
+gtja:
+  sso:
+    appid: HSIifjyI8kq=
+    key: riJYGydmO858EodUDJFY76hr7D9HYFSt
+    iv: sIseDJd83LO=

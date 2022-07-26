@@ -1,0 +1,17 @@
+
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÅÅÓŠ
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(óğ¡ìÿÿÿÿÿ
+u
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(äÿÔÁ
+F
+java:S1068")Remove this unused "appid" private field.(±²é¤8³Äó„¡0
+I
+java:S1068"-Remove this unused "returnUrl" private field.(Èİ§S8¯ô„¡0
+D
+java:S1068".Remove this unused "createtime" private field.(ö‡Ñâ
+=
+java:S1068"'Remove this unused "url" private field.(äÿÔÁ
+=
+java:S1068"'Remove this unused "key" private field.(ÅÅÓŠ
+A
+java:S1068"&Remove this unused "iv" private field.(óğ¡ìÿÿÿÿÿ

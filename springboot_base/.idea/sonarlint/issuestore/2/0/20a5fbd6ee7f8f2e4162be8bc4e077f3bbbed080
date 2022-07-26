@@ -1,0 +1,16 @@
+
+e
+java:S1192"HDefine a constant instead of duplicating this literal "unKnown" 4 times.(çš†8ª³É…¡0
+L
+java:S1066"/Merge this if statement with the enclosing one.(çš†8ª³É…¡0
+L
+java:S1066"/Merge this if statement with the enclosing one.(çš†8ª³É…¡0
+L
+java:S1066"/Merge this if statement with the enclosing one.(çš†8ª³É…¡0
+L
+java:S1066$"/Merge this if statement with the enclosing one.(çš†8ª³É…¡0
+W
+java:S1118":Add a private constructor to hide the implicit public one.(Ù«ù²8¬³É…¡0
+t
+java:S3776
+"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.( Ñì¢úÿÿÿÿ8­³É…¡0

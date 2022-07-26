@@ -1,0 +1,14 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÕó“øÿÿÿÿ
+T
+java:S1854#"9Remove this useless assignment to local variable "cache".(Ñ·á÷øÿÿÿÿ
+>
+java:S5542"#Use secure mode and padding scheme.(»¦µªúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¿ÂèĞ
+N	java:S1062"9Replace this use of System.out or System.err by a logger.(ëŠÌ
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(òû±
+Q	java:S125<"<This block of commented-out lines of code should be removed.(¾É•Ê
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(¤Â¹öÿÿÿÿÿ
+P
+java:S1874I".Remove this use of "encode"; it is deprecated.(àİ¨—ùÿÿÿÿ8˜ÊÇ ¡0
+M	java:S106L"9Replace this use of System.out or System.err by a logger.(×½Ì^

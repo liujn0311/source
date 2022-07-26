@@ -1,0 +1,9 @@
+com\liugroup\springboot_base\common\BaseBizException$ErrorMessage.class
+com\liugroup\springboot_base\common\BaseBizException$ErrorCode.class
+com\liugroup\springboot_base\mapper\MenuMapper.class
+com\liugroup\springboot_base\common\BaseResponse.class
+com\liugroup\springboot_base\common\ErrorInfoEnum.class
+com\liugroup\springboot_base\common\BaseBizException.class
+com\liugroup\springboot_base\exception\ValidatedExceptionHandler.class
+com\liugroup\springboot_base\pojo\Menu.class
+com\liugroup\springboot_base\bean\User.class
